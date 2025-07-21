@@ -1,0 +1,17 @@
+knn Results
+========================================
+Accuracy: 0.6282
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.62      0.60      0.61      1832
+           1       0.64      0.66      0.65      1990
+
+    accuracy                           0.63      3822
+   macro avg       0.63      0.63      0.63      3822
+weighted avg       0.63      0.63      0.63      3822
+
+Confusion Matrix:
+[[1096  736]
+ [ 685 1305]]
